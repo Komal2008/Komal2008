@@ -12,16 +12,15 @@ Currently, I am focusing on **Full Stack Development**, integrating **AI-powered
 
 -----
 ## 🛠️ Tech Stack
-**Frontend**
-- HTML
-- CSS
-- JavaScript
+**Frontend**      
+- HTML        
+- CSS                           
+- JavaScript                                   
 - React.js
   
 **Backend**
 
 - Node.js
-- Express.js
   
 **Database**
 - MySQL
