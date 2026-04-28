@@ -77,7 +77,7 @@ Currently, I am focusing on **Full Stack Development**, integrating **AI-powered
 ## 🎯 Goals
 ✨ Become a skilled **Full Stack Developer**  
 ✨ Build impactful and scalable tech solutions  
-✨ Contribute to **open-source projects and GSoC**
+✨ Contribute to **open-source projects "
 
 ---
 
