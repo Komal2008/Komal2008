@@ -67,3 +67,8 @@
 
 ⚡ **Fun fact:**  
 I love turning creative ideas into real working projects through code 🚀
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Komal2008&theme=github_dark" />
+</p>
