@@ -42,7 +42,10 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Komal2008&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Komal2008&icon=0&color=11)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Komal2008&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
