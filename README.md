@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Komal Pandey</h1>
 
 
-🚀 Second-Year Computer Science Student <br>
+🚀 Third-Year Computer Science Student <br>
 💻 Learning Full Stack Development & AI <br>
 🌱 Passionate about building innovative and real-world tech solutions <br>
 📬 Reach me for collaboration, projects, or tech discussions <br><br>
